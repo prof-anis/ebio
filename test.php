@@ -1,9 +1,5 @@
 <?php
 
-
-include 'functions.php';
-
-var_dump(connectDB());
-
+i love coding because they pay people huge amount of money to build things for them. 
 
 ?>
